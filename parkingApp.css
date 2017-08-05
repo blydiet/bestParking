@@ -1,5 +1,5 @@
 body{
-	background:url("http://germancarsforsaleblog.com/wp-content/uploads/2012/12/80350SL26.jpg");
+	background:url("http://st.motortrend.com/uploads/sites/10/2016/10/2017-Honda-Civic-sedan-front-three-quarter.jpg");
 	background-size: cover;
 	background-position: center;
 	color: #708090; 
@@ -24,4 +24,8 @@ hr{
 	width: 400px;
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+#car-logo {
+    margin-right: 10px;
 }
